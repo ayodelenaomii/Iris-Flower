@@ -1,1 +1,3 @@
 # Iris-Flower
+This project is aimed at developing a machine learning model to predict the species of flowers based on their features. The dataset used in this project contains various measurements of flowers, such as sepal length, sepal width, petal length, and petal width. The goal is to build a robust machine learning model that can accurately classify flowers into their respective species based on these measurements.
+The dataset used in this project is the famous Iris dataset, which is included with popular machine learning libraries like Scikit-Learn. It contains 150 samples from each of three species of Iris flowers (Iris setosa, Iris virginica, and Iris versicolor). Each sample includes four features: sepal length, sepal width, petal length, and petal width. 
